@@ -1,0 +1,19 @@
+/* o index.css é o css geral, ele afeta todo programa, pois ele é o css global da aplicação*/
+
+body{
+  
+  padding:50px;
+  padding-bottom: 500px;
+  background-color: #efefef;
+
+}
+
+h1{
+  color: #333;
+
+}
+
+p{
+  background-color: #999;
+  padding:10px;
+}
